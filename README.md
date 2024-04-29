@@ -5,4 +5,4 @@
 <p>This project demonstrates my proficiency in web development with React, as well as my ability to implement complex mathematical algorithms into practical applications.</p>  
 
 ## Deploy
-<h3><em><a href="https://compouned-interest-calculator.netlify.app" target="_blank">Compound Interest Calculator</a></em>🌐</h3>
+<h3><em><a href="https://compouned-interest-calculator.netlify.app" target="_blanck">Compound Interest Calculator</a></em>🌐</h3>

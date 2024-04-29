@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Compound Interest Calculator 📊
+<p>I was contacted by a client on <b>Fiverr</b> to develop a <b>Compound Interest Calculator</b></p>
+<p>Utilizing React and Tailwind CSS, I crafted a user-friendly interface for the calculator.</p>
+<p>It incorporates various mathematical formulas for compound interest calculation and features bar and pie chart visualizations to aid in understanding financial growth over time.</p>
+<p>This project demonstrates my proficiency in web development with React, as well as my ability to implement complex mathematical algorithms into practical applications.</p>  

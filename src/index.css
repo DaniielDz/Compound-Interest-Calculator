@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.input__container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.input__label__container {
+    width: 100%;
+    max-width: 20rem;
+}
+
+.input__label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.input__field {
+    -webkit-flex: 4;
+    -ms-flex: 4;
+    flex: 4;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    border-right: 1px solid #efeff1;
+    border-left: 1px solid #efeff1;
+    padding: 9px;
+    width: 5rem;
+    width: 100%;
+}
+
+.input__field__button__container {
+    cursor: pointer;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.input__field__button {
+    border: 0;
+    background: none;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    color: #526eff;
+}
+
+.input__field__container {
+    border: 1px solid #efeff1;
+    border-radius: 7px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.input__field__container {
+    max-width: 20rem;
+    width: 100%;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.input__field input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #EFEFF1;
+    box-sizing: border-box;
+    display: block;
+    font-size: 16px;
+    margin: 0;
+    padding: 15px;
+    -webkit-transition: border-color;
+    transition: border-color;
+    width: 100%;
+    outline: none;
+}
+
+.input__field input:hover {
+    border-color: #666;
+}
+
+.input__field input:focus {
+    border-color: #666;
+}
